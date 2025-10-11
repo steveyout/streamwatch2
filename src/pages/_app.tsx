@@ -70,7 +70,7 @@ export default function App({ Component, pageProps }: any) {
   return (
     <>
       <Head>
-        <title>Rive</title>
+        <title>Streamwatch</title>
         <meta name="description" content="Your Personal Streaming Oasis" />
         <meta
           name="keywords"
@@ -85,7 +85,7 @@ export default function App({ Component, pageProps }: any) {
         <meta name="theme-color" content="#f4f7fe" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-        <meta name="apple-mobile-web-app-title" content="Rive" />
+        <meta name="apple-mobile-web-app-title" content="Streamwatch" />
         {/* <link rel="icon" type="image/svg+xml" href="/images/logo512.svg" color="#f4f7fe" /> */}
         <link
           rel="icon"
@@ -101,7 +101,7 @@ export default function App({ Component, pageProps }: any) {
         <link rel="apple-touch-startup-image" href="/images/logo512.svg" />
 
         {/* Open Graph Meta Tags */}
-        <meta property="og:title" content="Rive" />
+        <meta property="og:title" content="Streamwatch" />
         <meta
           property="og:description"
           content="Your Personal Streaming Oasis"
@@ -112,7 +112,7 @@ export default function App({ Component, pageProps }: any) {
         />
         <meta property="og:url" content="https://rivestream.live" />
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Rive" />
+        <meta property="og:site_name" content="Streamwatch" />
 
         {/* Twitter Card Meta Tags */}
         <meta
@@ -121,7 +121,7 @@ export default function App({ Component, pageProps }: any) {
         />
         <meta property="twitter:domain" content="rivestream.live" />
         <meta property="twitter:url" content="https://rivestream.live" />
-        <meta name="twitter:title" content="Rive" />
+        <meta name="twitter:title" content="Streamwatch" />
         <meta
           name="twitter:description"
           content="Your Personal Streaming Oasis"

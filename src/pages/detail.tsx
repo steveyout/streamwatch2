@@ -132,7 +132,7 @@ const DetailPage = () => {
     <>
       <Head>
         <title>
-          Rive | Detail{" "}
+          Streamwatch | Detail{" "}
           {id !== undefined && id !== null
             ? `| ${data?.name || data?.title || id}`
             : null}

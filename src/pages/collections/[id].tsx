@@ -48,7 +48,7 @@ const Collections = ({ categoryType }: any) => {
     <>
       <Head>
         <title>
-          Rive | Collection{" "}
+          Streamwatch | Collection{" "}
           {id !== undefined && id !== null
             ? `| ${data?.name || data?.title || id}`
             : null}

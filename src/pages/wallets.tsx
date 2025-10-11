@@ -63,7 +63,7 @@ const Collections = ({ categoryType }: any) => {
   return (
     <>
       <Head>
-        <title>Rive | Wallets</title>
+        <title>Streamwatch | Wallets</title>
       </Head>
       <div className={`${styles.MoviePage} ${styles.WalletPage}`}>
         <h1>All Wallets</h1>

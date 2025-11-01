@@ -58,7 +58,7 @@ export default function Document() {
         </Script>
 
         <Script data-cfasync="false" strategy="afterInteractive"
-                src="//enlargementemergencyflank.com/2af5858151ac603b89700fdca8d640f7/invoke.js"></Script>
+                src="//patronagemaestroforestall.com/2af5858151ac603b89700fdca8d640f7/invoke.js"></Script>
         <Script type="text/javascript">
             {`
             atOptions = {
@@ -70,7 +70,7 @@ export default function Document() {
 };
         `}
         </Script>
-        <Script type="text/javascript" src="//enlargementemergencyflank.com/961d025281d74b4322edc36aac08b498/invoke.js"></Script>
+        <Script type="text/javascript" src="//patronagemaestroforestall.com/961d025281d74b4322edc36aac08b498/invoke.js"></Script>
         </body>
     </Html>
   );
